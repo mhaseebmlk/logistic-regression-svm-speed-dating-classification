@@ -1,0 +1,10 @@
+Name: Mohammad Haseeb [mhaseeb@purdue.edu]
+
+- Python Verison:	3.6.5
+- numpy version: 	1.13.3
+- pandas version: 	0.22.0
+
+Runtime Notes:
+- LR takes ~1 minute to execute on cs.data.purdue.edu
+- SVM takes ~1 minutes to execute on cs.data.purdue.edu
+- cv.py takes ~8.5 minutes to execute on cs.data.purdue.edu
